@@ -133,8 +133,3 @@ Guided Links utili:
 MIT License — feel free to modify and extend.
 
 ---
-
-Se vuoi, posso anche generarti:  
-- un **diagramma Fritzing**,  
-- una **versione in italiano**,  
-- oppure un **README più tecnico** orientato a ingegneri embedded.
